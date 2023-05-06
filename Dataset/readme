@@ -1,0 +1,22 @@
+Put the dataset here, including train, test in train and test.
+\train 
+   \RGB
+   \GT
+   \T
+\test in train
+   \RGB
+   \GT
+   \T
+\test
+   \VT821
+       \RGB
+       \GT
+       \T
+   \VT1000
+       \RGB
+       \GT
+       \T
+   \VT5000_test
+       \RGB
+       \GT
+       \T
