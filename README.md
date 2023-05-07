@@ -6,8 +6,7 @@
 Python v3.6, Pytorch 0.4.0+, Cuda 10.0, TensorboardX 2.0, opencv-python
 
 # 2.Data Preparation
-Download the train dataset from [here](https://pan.baidu.com/s/1vsKOKWhak6pvcwJ6Q2VdRQ)[code:NEPU], test dataset from [here](https://pan.baidu.com/s/1mDP02q1P5V5QocMRbCXIow
-)[code:NEPU]. Then put them under the following directory: 
+Download the dataset from [here](https://pan.baidu.com/s/1sL3LMtTnr4984-MWV5uXeA)[code:NEPU], which includes train, test in train and test dataset. Then put them under the following directory: 
 
     -Dataset\   
        -train\  
@@ -26,7 +25,7 @@ Please download the released code and then:
 
 * **Testing the PCNet**  
 
-Please complete the training and then:  
+Please download the trained weights from [here](https://pan.baidu.com/s/1oo86hczZ_hB2uP9-u5L8HA) and then:  
 
     run python Test.py  
 
@@ -45,9 +44,10 @@ Figure.2 Qualitative comparison of our proposed method with some SOTA methods.
 * **Quantitative comparison** 
 
 ![image](figs/qulities_results.png)  
-Table.1 Quantitative comparison with some SOTA models on there public RGB-T benchmark datasets. 
+Table.1 Quantitative comparison with some SOTA models on there public RGB-T SOD benchmark datasets. 
 
-
+* **Salmaps**   
+The salmaps of three RGB-T SOD benchmark datasets can be download from [here](https://pan.baidu.com/s/1h4SDlWui45QgcOoiHS7A5A) [code:NEPU]
 
 
 
