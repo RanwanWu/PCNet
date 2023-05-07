@@ -47,7 +47,7 @@ Figure.2 Qualitative comparison of our proposed method with some SOTA methods.
 Table.1 Quantitative comparison with some SOTA models on there public RGB-T SOD benchmark datasets. 
 
 * **Salmaps**   
-The salmaps of three RGB-T SOD benchmark datasets can be download from [here](https://pan.baidu.com/s/1h4SDlWui45QgcOoiHS7A5A) [code:NEPU]
+The results of three RGB-T SOD benchmark datasets can be download from [here](https://pan.baidu.com/s/1h4SDlWui45QgcOoiHS7A5A) [code:NEPU]
 
 
 
