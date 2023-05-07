@@ -27,7 +27,7 @@ model.eval()
 
 test_datasets = ['VT821','VT1000','VT5000_test']
 for dataset in test_datasets:
-    save_path = './Salmap/PCNet/' + dataset + '/'
+    save_path = './salmap/PCNet/' + dataset + '/'
     if not os.path.exists(save_path):
         os.makedirs(save_path)
     image_root = dataset_path + dataset + '/RGB/'
