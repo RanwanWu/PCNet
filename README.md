@@ -25,7 +25,7 @@ Please download the released code and then:
 
 * **Testing the PCNet**  
 
-Please download the trained weights from [here](https://pan.baidu.com/s/1oo86hczZ_hB2uP9-u5L8HA) and then:  
+Please download the trained weights from [here](https://pan.baidu.com/s/1oo86hczZ_hB2uP9-u5L8HA) and put it to pre folder. Then:  
 
     run python Test.py  
 
