@@ -18,7 +18,7 @@ dataset_path = opt.test_path
 ###############################     load the model   ##########################
 
 model = PCNet()
-model.load_state_dict(torch.load('./pre/backbone/PCNet.pth'), False)
+model.load_state_dict(torch.load('./pre/PCNet.pth'), False)
 model.cuda()
 model.eval()
 
