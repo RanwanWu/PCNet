@@ -29,7 +29,7 @@ Please download the trained weights from [here](https://pan.baidu.com/s/1oo86hcz
 
     run python Test.py  
 
-Then the test maps will be saved to './Salmaps/'
+Then the test maps will be saved to './salmap/'
 
 * **Evaluate the result maps**  
 
